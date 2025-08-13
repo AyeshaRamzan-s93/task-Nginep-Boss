@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "ca91",
+      "name": "Ayesha",
+      "surname": "Ramzan",
+      "phone": "9900",
+      "email": "ayesha.ramzan@studio93.io",
+      "password": "123"
+    },
+    {
+      "id": "afd0",
+      "name": "meenaaa",
+      "surname": "Shah",
+      "phone": "5500",
+      "email": "meenashah123@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "91e4",
+      "name": "Ansa",
+      "surname": "Ramzan",
+      "phone": "6600",
+      "email": "ansa.ramza@gmail.com",
+      "password": "Ansa"
+    },
+    {
+      "id": "fbcf",
+      "name": "Done the homework",
+      "image": "",
+      "state": "done"
+    },
+    {
+      "id": "f57a",
+      "name": "Make food",
+      "image": "",
+      "state": "todo"
+    }
+  ]
+}
